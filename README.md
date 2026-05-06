@@ -22,6 +22,10 @@ A simulated enterprise network built in **Cisco Packet Tracer**, featuring two s
           PC6, PC7, PC8, PC9, Printer2
 ```
 
+### 📸 Topology Screenshot
+
+![Network Topology](./assets/topology.png)
+
 ---
 
 ## 🏗️ Devices & Roles
