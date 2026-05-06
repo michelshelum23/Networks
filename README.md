@@ -24,7 +24,7 @@ A simulated enterprise network built in **Cisco Packet Tracer**, featuring two s
 
 ### 📸 Topology Screenshot
 
-![Network Topology](./assets/topology.png)
+![Network Topology](https://github.com/michelshelum23/Networks/blob/09c1434700ee7310143b5b107b30a23ded08823e/Screenshot%202026-05-05%20135855.png)
 
 ---
 
